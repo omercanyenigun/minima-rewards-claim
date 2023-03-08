@@ -100,6 +100,12 @@ vault action:restorekeys phrase:"24kelimeniziburayayazın"
 
 ![alt text](https://i.hizliresim.com/9255en0.png)
 
+Backup'ı geri yüklemek için önceden almış olduğunuz minima-backup-xxxxxxx.bak dosyasını import etmek istediğiniz sunucuya SFTP ile bağlanarak minimadocker9001 klasörü içine yükleyin.
 
+minima-backup-xxxxxxx.bak olan yere dosyanızın tam ismini girin. Eğer backup şifresi kullanmamışsanız koddan sonra direkt enter yapın.
 
-backup file:nokeysbackup.bak password:...
+```
+backup file:minima-backup-xxxxxxx.bak password:
+```
+
+![alt text](https://i.hizliresim.com/k4squyu.png)
