@@ -99,3 +99,7 @@ vault action:restorekeys phrase:"24kelimeniziburayayazın"
 ```
 
 ![alt text](https://i.hizliresim.com/9255en0.png)
+
+
+
+backup file:nokeysbackup.bak password:...
