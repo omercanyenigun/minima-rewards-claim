@@ -130,6 +130,7 @@ Gelen ekranda ödül bulunan mail ve incentive sitesindeki şifrenizi girin. Aş
 
 ![alt text](https://i.hizliresim.com/d3vzyet.png)
 
+Request Withdrawal'a basarak çekme talebinde bulunun
 
 
 
