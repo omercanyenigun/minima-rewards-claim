@@ -143,6 +143,16 @@ Kutucuk içinde yazan yazıya dikkat edin: Gösterilen Para Çekme Adresi, bu no
 - **Eğer node'unuzu kapatacaksanız en son aldığınız backup ile yeni kuracağınız zamanki aralık az olsun. İstenilen 2-3 haftada bir backup alınması**
 
 
+**Nade'unuzu silmek istiyorsanız**
+
+```
+docker stop minima9001
+docker rm minima9001
+```
+```
+sudo rm -rf minimadocker9001
+```
+
 
 
 
