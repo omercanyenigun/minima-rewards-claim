@@ -10,6 +10,6 @@
 - **Claim işlemi**
 
 
-- **Node kurulumu**
+**Node kurulumu**
 
 #Eğer node kurulu değilse **https://testnet.run/minima** buradan docker ile kurulum yapabilirsiniz 
