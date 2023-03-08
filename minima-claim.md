@@ -27,4 +27,4 @@ Kurulum yaparken MDS şifrenizi unutmayın. O şifre ile MDS erişimini sağlaya
 
 ![alt text](https://i.hizliresim.com/6hk9ftr.png)
 
-#Bu ekranda girecek olduğunuz şifre sunucuda belirlemiş olduğunuz (minima_mdspassword=123) şifredir. Şifreyi girdikten sonra Main Menu diyerek ilerleyin.
+#Burada girecek olduğunuz şifre sunucuda belirlemiş olduğunuz (minima_mdspassword=123) şifredir. Şifreyi girdikten sonra Main Menu diyerek ilerleyin.
