@@ -121,6 +121,11 @@ MDS'ye giriş yapın (Mds erişimi kontrolü başlığında anlatıldı) ve en a
 
 ![alt text](https://i.hizliresim.com/sluriqt.png)
 
+Uygulama doğru yüklendiğinde alttaki gibi görünecektir. Girmek için uygulamaya tıklayın.
+
+
+![alt text](https://i.hizliresim.com/lwc4mab.png)
+
 
 
 
