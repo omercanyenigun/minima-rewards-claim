@@ -1,6 +1,6 @@
 ![alt text](https://i.hizliresim.com/i19z25m.png)
 
-- **Sırasıyla Yapılması Gerekenler**
+**Sırasıyla Yapılması Gerekenler**
 
 - **Node kurulumu**
 - **Mds erişimi kontrolü**
