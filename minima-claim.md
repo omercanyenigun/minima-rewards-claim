@@ -60,4 +60,21 @@ locked:false yazmasının nedeni cüzdanınızın şifre ile kilitlenmemiş oldu
 
 **Backup oluşturma ve görüntüleme**
 
+Backup uluşturmak için sh /bin/minima ile biten kodu yazmamışsanız ana dizinde iseniz.
 
+```
+docker exec -it minima9001 /bin/sh
+sh /bin/minima
+```
+
+```
+backup password: 
+```
+#eğer kodu direkt enter yaparsanız backup'ınız şifreli olarak saklanmaz. Şİfre koymak isterseniz backup password:'dan sonra şifrenizi yazıp kodu girin (şifre koymanıza gerek yok)
+
+![alt text](https://i.hizliresim.com/gdhj95c.png)
+
+Bacup'ınızı indirmek isterseniz Termius yada Winscp ile sftp bağlantısı kurarak minimadocker9001 klasörünün içinden indirebilirsiniz.
+
+
+![alt text](https://i.hizliresim.com/mrs30xa.png)
