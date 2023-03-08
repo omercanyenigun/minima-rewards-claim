@@ -16,5 +16,5 @@
 
 **Mds erişimi kontrolü**
 
-Node'un kurulu olduğu sunucunun Ip'si ile **https://sunucuipsi:9003/** buradan giriş yapın. Eğer sorun yaşıyorsanız ilk **https://YourServerIP:9004/** adresinden güvenlik uyarısını kabul edin. Sonra tekrar 9003 olan linkten devam edin.
+#Node'un kurulu olduğu sunucunun Ip'si ile **https://sunucuipsi:9003/** buradan giriş yapın. Eğer sorun yaşıyorsanız ilk **https://sunucuipsi:9004/** adresinden güvenlik uyarısını kabul edin. Sonra tekrar 9003 olan linkten devam edin.
 
