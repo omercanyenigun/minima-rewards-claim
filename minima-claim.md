@@ -134,8 +134,13 @@ Request Withdrawal'a basarak çekme talebinde bulunun
 
 Kutucuk içinde yazan yazıya dikkat edin: Gösterilen Para Çekme Adresi, bu node'dan otomatik olarak oluşturulmuştur. Bu, 64 varsayılan adresinizden biridir ve Wallet MiniDapp'inizde gösterilen adresle eşleşmeyebilir.
 
+![alt text](https://i.hizliresim.com/g9z14ma.png)
 
+**İşlem tamamlandı. Bundan sonra yapmanız gerekenler;**
 
+- **Çekim talibe bulnduğunuz cüzdan mnemoniclerini ve seeds'ini saklamak**
+- **Eğer node'unuz çalışıyor durumda kalacaksa bile sık sık backup almak. Bunu yukarıdaki auto kodu ile yapabilirsiniz. Her 24 saatte bir backup alır**
+- **Eğer node'unuzu kapatacaksanız en son aldığınız backup ile yeni kuracağınız zamanki aralık az olsun. İstenilen 2-3 haftada bir backup alınması**
 
 
 
