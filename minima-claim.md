@@ -74,7 +74,15 @@ backup password:
 
 ![alt text](https://i.hizliresim.com/gdhj95c.png)
 
-Bacup'ınızı indirmek isterseniz Termius yada Winscp ile sftp bağlantısı kurarak minimadocker9001 klasörünün içinden indirebilirsiniz.
+Bacup'ınızı indirmek isterseniz Termius yada Winscp ile SFTP bağlantısı kurarak minimadocker9001 klasörünün içinden indirebilirsiniz.
 
 
 ![alt text](https://i.hizliresim.com/mrs30xa.png)
+
+Her 24 saatte bir auto backup almasını isterseniz şu kodu girebilirsiniz.
+
+
+```
+backup auto:true 
+```
+
