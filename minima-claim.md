@@ -6,6 +6,7 @@
 - **Mds erişimi kontrolü**
 - **Seeds ve mnemonicleri görüntüleme**
 - **Backup oluşturma ve görüntüleme**
+- **Seeds ve mnemonicler ile eski cüzdanı import etme**
 - **Incentive Program Rewards 2.15.1 uygulamasını Mds'ye yükleme**
 - **Claim işlemi**
 
@@ -86,3 +87,13 @@ Her 24 saatte bir auto backup almasını isterseniz şu kodu girebilirsiniz.
 backup auto:true 
 ```
 
+
+- **Seeds ve mnemonicler ile eski cüzdanı import etme**
+
+Önemli: 24 kelime (mnemonic) güvende tutun. Node'unuzu sadece bu kelimelerle kurtarabilirsiniz.
+Terminal Minidapp içindeyken (sh /bin/minima olan kod)
+
+
+```
+vault action:restorekeys phrase:"24kelimeniziburayayazın"
+```
