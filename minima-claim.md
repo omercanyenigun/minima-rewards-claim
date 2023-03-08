@@ -7,7 +7,7 @@
 - **Seeds ve mnemonicleri görüntüleme**
 - **Backup oluşturma ve görüntüleme**
 - **Mnemonic ve backup ile eski cüzdanı import etme**
-- **Incentive Program Rewards 2.15.1 uygulamasını Mds'ye yükleme**
+- **Incentive Program Rewards uygulamasını Mds'ye yükleme**
 - **Claim işlemi**
 
 
@@ -109,3 +109,23 @@ backup file:minima-backup-xxxxxxx.bak password:
 ```
 
 ![alt text](https://i.hizliresim.com/k4squyu.png)
+
+
+**Incentive Program Rewards uygulamasını Mds'ye yükleme**
+
+**https://minidapps.minima.global/** sitesinden Incentive Program Rewards uygulama dosyasını indirin.
+
+![alt text](https://i.hizliresim.com/r6e52wr.png)
+
+MDS'ye giriş yapın (Mds erişimi kontrolü başlığında anlatıldı) ve en alttaki dosya seç yerinden indiridğiniz dosyayı seçerek install yapın.
+
+![alt text](https://i.hizliresim.com/rsluriqt.png)
+
+
+
+
+
+
+
+
+
