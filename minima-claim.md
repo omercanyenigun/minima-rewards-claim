@@ -128,9 +128,14 @@ Uygulama doğru yüklendiğinde alttaki gibi görünecektir. Girmek için uygula
 
 Gelen ekranda ödül bulunan mail ve incentive sitesindeki şifrenizi girin. Aşağıdaki gibi ödülünüz ve mailiniz gözükmesi gerek.
 
-![alt text](https://i.hizliresim.com/d3vzyet.png)
+![alt text](https://i.hizliresim.com/t4gkue9.png)
 
 Request Withdrawal'a basarak çekme talebinde bulunun
+
+Kutucuk içinde yazan yazıya dikkat edin: Gösterilen Para Çekme Adresi, bu node'dan otomatik olarak oluşturulmuştur. Bu, 64 varsayılan adresinizden biridir ve Wallet MiniDapp'inizde gösterilen adresle eşleşmeyebilir.
+
+
+
 
 
 
