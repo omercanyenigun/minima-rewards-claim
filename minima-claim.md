@@ -42,15 +42,15 @@ MDS'ye tekrar dönmek üzere seeds ve mnemonic görüntülemeye geçelim.
 
 **Seeds ve mnemonicleri görüntüleme**
 
-#Sunucuya tekrar giridğinizde ana dizine aşağıdaki kodu giridikten sonra vault yazın
-
-```
-vault
-```
+#Sunucuya tekrar giridğinizde ana dizine aşağıdaki kodu girdikten sonra vault yazın
 
 ```
 docker exec -it minima9001 /bin/sh
 sh /bin/minima
+```
+
+```
+vault
 ```
 ![alt text](https://i.hizliresim.com/iu7atyj.png)
 
