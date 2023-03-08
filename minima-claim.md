@@ -31,3 +31,14 @@ Kurulum yaparken MDS şifrenizi unutmayın. O şifre ile MDS erişimini sağlaya
 MDS'ye tekrar dönmek üzere seeds ve mnemonic görüntülemeye geçelim.
 
 **Seeds ve mnemonicleri görüntüleme**
+
+#Sunucuya tekrar giridğinizde ana dizine aşağıdaki kodu giridkten sonra vault yazın
+```
+docker exec -it minima9001 /bin/sh
+sh /bin/minima
+```
+
+![alt text](https://i.hizliresim.com/iu7atyj.png)
+
+#vault kodundan sonra çıkan mnemonicleri ve seeds'i bir yere kaydedin. 
+locked:false yazmasının nedeni cüzdanınızın şifre ile kilitlenmemiş olduğundan dolayı.
