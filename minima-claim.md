@@ -126,6 +126,11 @@ Uygulama doğru yüklendiğinde alttaki gibi görünecektir. Girmek için uygula
 
 ![alt text](https://i.hizliresim.com/lwc4mab.png)
 
+Gelen ekranda ödül bulunan mail ve incentive sitesindeki şifrenizi girin. Aşağıdaki gibi ödülünüz ve mailiniz gözükmesi gerek.
+
+![alt text](https://i.hizliresim.com/d3vzyet.png)
+
+
 
 
 
