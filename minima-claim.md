@@ -7,7 +7,7 @@
 - **Mds erişimi kontrolü**
 - **Seeds ve mnemonicleri görüntüleme**
 - **Backup oluşturma ve görüntüleme**
-- **Mnemonic ve backup ile eski cüzdanı import etme (bu adım sunucunuz kapanır veya node'unuz silinirse)**
+- **Mnemonic ve backup ile tokenleri claim ettiğiniz/edeceğiniz cüzdanı import etme (bu adım sunucunuz kapanır veya node'unuz silinirse)**
 - **Incentive Program Rewards uygulamasını Mds'ye yükleme**
 - **Claim işlemi**
 
