@@ -46,7 +46,7 @@ MDS'ye tekrar dönmek üzere seeds ve mnemonic görüntülemeye geçelim.
 
 # Seeds ve mnemonicleri görüntüleme
 
-Sunucuya tekrar giridğinizde ana dizine aşağıdaki kodu girdikten sonra vault yazın
+Sunucuya tekrar girdidğinizde ana dizine aşağıdaki kodu girdikten sonra vault yazın
 
 ```
 docker exec -it minima9001 /bin/sh
