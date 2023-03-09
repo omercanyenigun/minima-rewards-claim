@@ -3,18 +3,18 @@
 
 # Sırasıyla Yapılması Gerekenler
 
-- **Node kurulumu**
+- **Node kurulumu (kurulu node varsa adımı atlayın)**
 - **Mds erişimi kontrolü**
 - **Seeds ve mnemonicleri görüntüleme**
 - **Backup oluşturma ve görüntüleme**
-- **Mnemonic ve backup ile eski cüzdanı import etme**
+- **Mnemonic ve backup ile eski cüzdanı import etme (bu adım sunucunuz kapanır veya node'unuz silinirse)**
 - **Incentive Program Rewards uygulamasını Mds'ye yükleme**
 - **Claim işlemi**
 
 
 # Node kurulumu
 
-# Halihazırda node'unuz varsa versiyon kontrolü yapın seeds-mnemonicleri yedekleyin. Backup alın ve geri kalan işlemleri yapın.
+# Halihazırda node'unuz varsa versiyon kontrolü yapın seeds-mnemonicleri yedekleyin. Backup alın ve geri kalan işlemleri yapın.(mds-uygulama yükleme ve claim)
 
 Eğer node kurulu değilse **https://testnet.run/minima** buradan docker ile kurulum yapabilirsiniz 
 Kurulum yaparken MDS şifrenizi unutmayın. O şifre ile MDS erişimini sağlayacaksınız. (aşağıda gösterilen beyaz kutu olan yer)
