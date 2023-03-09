@@ -1,7 +1,7 @@
 ![alt text](https://i.hizliresim.com/9jcl1yr.png)
 
 
-**Sırasıyla Yapılması Gerekenler**
+# Sırasıyla Yapılması Gerekenler
 
 - **Node kurulumu**
 - **Mds erişimi kontrolü**
