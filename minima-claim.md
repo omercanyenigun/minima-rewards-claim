@@ -14,7 +14,7 @@
 
 # Node kurulumu
 
-Halihazırda node'unuz varsa versiyon kontrolü yapın seeds-mnemonicleri yedekleyin. Backup alın ve geri kalan işlemleri yapın.
+# Halihazırda node'unuz varsa versiyon kontrolü yapın seeds-mnemonicleri yedekleyin. Backup alın ve geri kalan işlemleri yapın.
 
 Eğer node kurulu değilse **https://testnet.run/minima** buradan docker ile kurulum yapabilirsiniz 
 Kurulum yaparken MDS şifrenizi unutmayın. O şifre ile MDS erişimini sağlayacaksınız. (aşağıda gösterilen beyaz kutu olan yer)
