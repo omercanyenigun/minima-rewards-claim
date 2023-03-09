@@ -12,7 +12,7 @@
 - **Claim işlemi**
 
 
-**Node kurulumu**
+# Node kurulumu
 
 Halihazırda node'unuz varsa versiyon kontrolü yapın seeds-mnemonicleri yedekleyin. Backup alın ve geri kalan işlemleri yapın.
 
