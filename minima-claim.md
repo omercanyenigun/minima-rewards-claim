@@ -137,7 +137,7 @@ Gelen ekranda ödül bulunan mail ve incentive sitesindeki şifrenizi girin. Aş
 
 Request Withdrawal'a basarak çekme talebinde bulunun
 
-Kutucuk içinde yazan yazıya dikkat edin: Gösterilen Para Çekme Adresi, bu node'dan otomatik olarak oluşturulmuştur. Bu, 64 varsayılan adresinizden biridir ve Wallet MiniDapp'inizde gösterilen adresle eşleşmeyebilir.
+Kutucuk içinde yazan yazıya dikkat edin: Gösterilen Para Çekme Adresi, bu node'dan otomatik olarak oluşturulmuştur. Bu, 64 varsayılan adresinizden biridir ve Wallet MiniDapp'inizde gösterilen adresle eşleşmeyebilir. Bu normal.
 
 ![alt text](https://i.hizliresim.com/g9z14ma.png)
 
