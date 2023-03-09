@@ -120,7 +120,7 @@ backup file:minima-backup-xxxxxxx.bak password:
 
 ![alt text](https://i.hizliresim.com/r6e52wr.png)
 
-MDS'ye giriş yapın (Mds erişimi kontrolü başlığında anlatıldı) ve en alttaki dosya seç yerinden indiridğiniz dosyayı seçerek install yapın.
+MDS'ye giriş yapın (Mds erişimi kontrolü başlığında anlatıldı) ve en alttaki dosya seç yerinden indirdidğiniz dosyayı seçerek install yapın.
 
 ![alt text](https://i.hizliresim.com/sluriqt.png)
 
