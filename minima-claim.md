@@ -1,4 +1,5 @@
-![alt text](https://i.hizliresim.com/i19z25m.png)
+![alt text](https://i.hizliresim.com/9jcl1yr.png)
+
 
 **Sırasıyla Yapılması Gerekenler**
 
