@@ -113,6 +113,11 @@ restore file:minima-backup-xxxxxxx.bak password:
 
 ![alt text](https://i.hizliresim.com/a323bbn.png)
 
+Backup yüklendikten sonra ana dizine dönerek restart atın.
+
+```
+docker restart minima9001
+```
 
 # Incentive Program Rewards uygulamasını Mds'ye yükleme
 
