@@ -108,10 +108,10 @@ Backup'ı geri yüklemek için önceden almış olduğunuz minima-backup-xxxxxxx
 minima-backup-xxxxxxx.bak olan yere dosyanızın tam ismini girin. Eğer backup şifresi kullanmamışsanız koddan sonra direkt enter yapın.
 
 ```
-backup file:minima-backup-xxxxxxx.bak password:
+restore file:minima-backup-xxxxxxx.bak password:
 ```
 
-![alt text](https://i.hizliresim.com/k4squyu.png)
+![alt text](https://i.hizliresim.com/a323bbn.png)
 
 
 # Incentive Program Rewards uygulamasını Mds'ye yükleme
